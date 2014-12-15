@@ -1,0 +1,23 @@
+<configuration scan="true" scanPeriod="30 seconds" debug="false">
+
+    <contextName>Import-Cities</contextName>
+
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%date{yyyy/MM/dd HH:mm:ss.SSS,Europe/Paris} %5level [%thread] %logger{16} - %msg %n</pattern>
+        </encoder>
+    </appender>
+
+    <contextListener class="ch.qos.logback.classic.jul.LevelChangePropagator">
+        <resetJUL>true</resetJUL>
+    </contextListener>
+
+
+    <logger name="org.springframework" level="WARN"/>
+
+
+    <root level="INFO">
+        <appender-ref ref="CONSOLE"/>
+    </root>
+
+</configuration>

@@ -1,0 +1,21 @@
+3038814	Costa de Xurius	Costa de Xurius		42.5	1.48333	T	SLP	AD		0				0		1434	Europe/Andorra	23/12/1993
+3038815	Font de la Xona	Font de la Xona		42.55003	1.44986	H	SPNG	AD		4				0		1976	Europe/Andorra	11/01/2010
+3038816	Xixerella	Xixerella		42.55327	1.48736	P	PPL	AD		4				0		1417	Europe/Andorra	24/04/2009
+3038817	Xixerella	Xixerella	Xixerella	42.55294	1.48764	A	ADMD	AD		0				0		1417	Europe/Andorra	13/04/2012
+3038818	Riu Xic	Riu Xic		42.56667	1.68333	H	STM	AD		0				0		2121	Europe/Andorra	23/12/1993
+3038819	Pas del Xic	Pas del Xic		42.5	1.58333	R	TRL	AD		0				0		1961	Europe/Andorra	23/12/1993
+3038820	Roc del Xeig	Roc del Xeig		42.56667	1.48333	T	RK	AD		0				0		1740	Europe/Andorra	23/12/1993
+3038821	Collada del Xeig	Collada del Xeig		42.56667	1.48333	T	PK	AD		0				0		1740	Europe/Andorra	23/12/1993
+3038822	Fonts Vives	Fonts Vives		42.5	1.56667	H	SPNG	AD		0				0		1684	Europe/Andorra	23/12/1993
+3038823	Roc de Vista	Roc de Vista		42.5	1.48333	T	RK	AD		0				0		1434	Europe/Andorra	23/12/1993
+3038824	Obaga de Vista	Obaga de Vista		42.48333	1.45	T	SLP	AD		0				0		1341	Europe/Andorra	23/12/1993
+3038825	Coll de Vista	Coll de Vista		42.46667	1.58333	T	SPUR	AD		0				0		2419	Europe/Andorra	23/12/1993
+3038826	Coll de Vista	Coll de Vista	Coll de Vista	42.48333	1.43333	T	PASS	AD	ES	0				0		2100	Europe/Andorra	07/03/2014
+3038827	Visanseny	Visanseny	Visanceny,Visanseny	42.56667	1.61667	L	LCTY	AD	AD	0				0		1913	Europe/Andorra	18/01/2012
+3038828	Roc de la Vinya	Roc de la Vinya		42.53333	1.56667	T	RK	AD		0				0		1342	Europe/Andorra	23/12/1993
+3038829	Canal de la Vinya	Canal de la Vinya		42.51667	1.51667	H	STM	AD		0				0		1607	Europe/Andorra	23/12/1993
+3038830	Bosc de Villar	Bosc de Villar		42.6	1.55	V	FRST	AD		0				0		2093	Europe/Andorra	23/12/1993
+3038831	Torrent de Vila	Torrent de Vila		42.53333	1.56667	H	STM	AD		0				0		1342	Europe/Andorra	23/12/1993
+3038832	Vila	Vila	Casas Vila,Vila	42.53176	1.56654	P	PPL	AD		3				0		1318	Europe/Andorra	13/04/2012
+3038833	Basers de Vicenç	Basers de Vicenc		42.48333	1.48333	T	CLF	AD		0				0		1279	Europe/Andorra	23/12/1993
+6283633	Pod”yel’novo	Pod"yel'novo	Pod"yel'novo,Poduel'novo,Pod”yel’novo,???????????	57.06775	41.75141	P	PPL	RU		21				0		137	Europe/Moscow	2012-01-20
